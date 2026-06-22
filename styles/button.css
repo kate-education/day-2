@@ -18,17 +18,17 @@
   width: 345px;
   height: 40px;
   padding: 14px 0;
-  size: 16px;
+  font-size: 16px;
 }
 .button.m {
   width: 272px;
   height: 30px;
   padding: 10px, 0;
-  size: 14px;
+  font-size: 14px;
 }
 .button.xs {
   width: 195px;
   height: 19px;
   padding: 5px, 0;
-  size: 12px;
+  font-size: 12px;
 }
